@@ -64,9 +64,10 @@ I prefer building **real-world projects** over theory. My goal is to design and 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=22c55e&icon_color=22c55e)
+<!-- GitHub kullanıcı adını aşağıdaki URL'lerdeki "ahmetyavas" ile değiştir -->
+<img src="https://github-readme-stats.vercel.app/api?username=ahmetyavas&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="400" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=22c55e)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetyavas&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="400" />
 
 </div>
 
@@ -74,9 +75,12 @@ I prefer building **real-world projects** over theory. My goal is to design and 
 
 ## Contact
 
-- **Portfolio:** [your-portfolio-url.com](https://your-portfolio-url.com)
-- **Email:** your-email@example.com
-- **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
+- **Portfolio:** [Portfolio](https://devsinmiedo.github.io) *(replace with your live site URL)*
+- **Email:** [ahmet0yavas@gmail.com](mailto:ahmet0yavas@gmail.com)
+- **GitHub:** [github.com/devsinmiedo](https://github.com/devsinmiedo)
+- **LinkedIn:** [linkedin.com/in/ahmet-yavas2](https://www.linkedin.com/in/ahmet-yavas2/)
+- **X:** [x.com/AhmetYavas0](https://x.com/AhmetYavas0)
+- **App Store:** [Developer Page](https://apps.apple.com/developer/ahmet-yavas/id6741826728)
 
 <div align="center">
 
