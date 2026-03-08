@@ -64,9 +64,10 @@ I prefer building **real-world projects** over theory. My goal is to design and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devsinmiedo&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="400" />
+*Using Shields.io while github-readme-stats (Vercel) is paused.*
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsinmiedo&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="400" />
+[![GitHub followers](https://img.shields.io/github/followers/devsinmiedo?style=for-the-badge&labelColor=0a0a0a&color=22c55e)](https://github.com/devsinmiedo?tab=followers)
+[![GitHub following](https://img.shields.io/github/following/devsinmiedo?style=for-the-badge&labelColor=0a0a0a&color=22c55e)](https://github.com/devsinmiedo?tab=following)
 
 </div>
 
