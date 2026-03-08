@@ -64,10 +64,9 @@ I prefer building **real-world projects** over theory. My goal is to design and 
 
 <div align="center">
 
-<!-- GitHub kullanıcı adını aşağıdaki URL'lerdeki "ahmetyavas" ile değiştir -->
-<img src="https://github-readme-stats.vercel.app/api?username=ahmetyavas&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=devsinmiedo&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="400" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetyavas&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsinmiedo&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="400" />
 
 </div>
 
