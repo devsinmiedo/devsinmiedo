@@ -97,21 +97,11 @@ Set a daily intention each morning, check back in the evening. Tracks streaks an
 
 ---
 
-## GitHub
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/devsinmiedo?style=for-the-badge&label=Followers&labelColor=0a0a0a&color=238636)](https://github.com/devsinmiedo?tab=followers)
-[![GitHub following](https://img.shields.io/github/following/devsinmiedo?style=for-the-badge&label=Following&labelColor=0a0a0a&color=238636)](https://github.com/devsinmiedo?tab=following)
-
-</div>
-
----
 
 <div align="center">
 
 *If something's worth building, it's worth shipping.*
 
-**[devsinmiedo.github.io](https://devsinmiedo.github.io)** · **[github.com/devsinmiedo](https://github.com/devsinmiedo)**
+
 
 </div>
