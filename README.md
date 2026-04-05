@@ -21,6 +21,9 @@
 
 </div>
 
+ <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHQxOW1nbmg0aGQ4NTV4ZXBiNjlzNGl4b25ianRnZHdoY2FvZjhqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QyPgvXCIQ1nbCRDIXS/giphy.gif" width="300" height="300"/>
+</div>
 ---
 
 ## whoami
